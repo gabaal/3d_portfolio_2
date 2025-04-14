@@ -3,7 +3,7 @@ const App = () => {
     <main>
       <div>
         <h1>Portfolio</h1>
-        <p>Welcome to my portfolio website!</p>
+        <p>Welcome to my portfolio website</p>
       </div>
     </main>
   );
